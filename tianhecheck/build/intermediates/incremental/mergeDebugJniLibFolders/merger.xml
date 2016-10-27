@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\d\asproject\SVNMF\tianhecheck\src\main\jniLibs"><file name="armeabi/libgdinamapv4sdk752.so" path="C:\d\asproject\SVNMF\tianhecheck\src\main\jniLibs\armeabi\libgdinamapv4sdk752.so"/><file name="armeabi/libgdinamapv4sdk752ex.so" path="C:\d\asproject\SVNMF\tianhecheck\src\main\jniLibs\armeabi\libgdinamapv4sdk752ex.so"/></source></dataSet><dataSet config="debug"><source path="C:\d\asproject\SVNMF\tianhecheck\src\debug\jniLibs"/></dataSet></merger>
